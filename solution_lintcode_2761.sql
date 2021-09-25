@@ -1,0 +1,1 @@
+show create procedure getTeachers;
